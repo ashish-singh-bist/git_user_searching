@@ -1,4 +1,4 @@
 <!-- Footer content -->
 <div class="container-fluid footer">
-	<p>&copy; Ashish Bist. All rights are reserved.</p>
+	<p>&copy; 2018. All rights are reserved.</p>
 </div>
